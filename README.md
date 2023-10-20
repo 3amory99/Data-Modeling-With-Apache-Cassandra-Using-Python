@@ -38,8 +38,8 @@ This project comprises the following files and directories:
 
 - `event_data`: Raw data collected from Sparkify's music streaming app.
 - `Sparkify.ipynb`: Jupyter Notebook containing database creation and ETL code.
-- `event_datafile_new.csv`: Denormalized CSV file derived from the `event_data`, ready for inserting data into Apache Cassandra tables.
-- `images`: Screenshot showing the data in the `event_datafile_new.csv`.
+- `event_datafile.csv`: Denormalized CSV file derived from the `event_data`, ready for inserting data into Apache Cassandra tables.
+- `Images`: Screenshot showing the data in the `event_datafile.csv` and `cqlsh` output.
 
 ---
 
@@ -54,6 +54,6 @@ This project comprises the following files and directories:
 
 ## How to Run
 
-To execute the project, simply run the `Project_1B_Project_Template.ipynb` Jupyter Notebook to perform validation and sample queries.
+To execute the project, simply run the `Sparkify.ipynb` Jupyter Notebook to perform validation and sample queries.
 
 Feel free to explore the dataset and analyze the music streaming behavior on Sparkify's platform.
