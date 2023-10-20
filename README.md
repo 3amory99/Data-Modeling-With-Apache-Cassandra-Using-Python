@@ -28,7 +28,8 @@ The NoSQL database serves to answer specific queries related to song play data. 
 
 ## ETL Process
 
-The ETL (Extract, Transform, Load) process reads data from files in the data folder, denormalizes it to match the Apache Cassandra tables, and creates a new CSV file named `event_datafile_new.csv`.
+The ETL (Extract, Transform, Load) process reads data from files in the data folder, denormalizes it to match the Apache Cassandra tables, and creates a new CSV file named `event_datafile.csv`.
+![out1](https://github.com/3amory99/Data-Modeling-With-Apache-Cassandra-Using-Python/blob/master/Images/Screenshot%20from%202023-10-20%2017-58-15.png)
 
 ---
 
