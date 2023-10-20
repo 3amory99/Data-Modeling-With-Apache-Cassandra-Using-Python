@@ -1,5 +1,7 @@
 # Data-Modeling-With-Apache-Cassandra-Using-Python
 
+![cassandra](https://github.com/3amory99/Data-Modeling-With-Apache-Cassandra-Using-Python/blob/master/Images/1642449715141.png)
+
 ---
 
 ## Project Overview
