@@ -41,6 +41,10 @@ This project comprises the following files and directories:
 
 ---
 
+## Output
+
+![out1](https://github.com/3amory99/Data-Modeling-With-Apache-Cassandra-Using-Python/blob/master/Images/1642449715141.png)
+
 ## How to Run
 
 To execute the project, simply run the `Project_1B_Project_Template.ipynb` Jupyter Notebook to perform validation and sample queries.
