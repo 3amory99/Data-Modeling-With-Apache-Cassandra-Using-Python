@@ -45,7 +45,12 @@ This project comprises the following files and directories:
 
 ## Output
 
-![out1](https://github.com/3amory99/Data-Modeling-With-Apache-Cassandra-Using-Python/blob/master/Images/1642449715141.png)
+![out1](https://github.com/3amory99/Data-Modeling-With-Apache-Cassandra-Using-Python/blob/master/Images/Screenshot%20from%202023-10-20%2016-06-05.png)
+![out2](https://github.com/3amory99/Data-Modeling-With-Apache-Cassandra-Using-Python/blob/master/Images/Screenshot%20from%202023-10-20%2016-06-42.png)
+![out3](https://github.com/3amory99/Data-Modeling-With-Apache-Cassandra-Using-Python/blob/master/Images/Screenshot%20from%202023-10-20%2016-08-35.png)
+![out4](https://github.com/3amory99/Data-Modeling-With-Apache-Cassandra-Using-Python/blob/master/Images/Screenshot%20from%202023-10-20%2016-09-39.png)
+![out5](https://github.com/3amory99/Data-Modeling-With-Apache-Cassandra-Using-Python/blob/master/Images/Screenshot%20from%202023-10-20%2016-10-13.png)
+
 
 ## How to Run
 
